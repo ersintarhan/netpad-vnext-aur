@@ -1,0 +1,7 @@
+*.tar.gz
+*.tar.xz
+*.tar.zst
+*.deb
+pkg/
+src/
+netpad-vnext-bin-*.pkg.tar.zst

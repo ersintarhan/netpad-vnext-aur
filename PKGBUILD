@@ -31,5 +31,10 @@ Icon=netpad-vnext
 Terminal=false
 Type=Application
 Categories=Development;IDE;
+StartupWMClass=netpad-vnext
+StartupNotify=true
+Encoding=UTF-8
+MimeType=application/x-netpad
+
 EOF
 }

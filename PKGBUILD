@@ -1,6 +1,6 @@
 # Maintainer: Ersin <ersin@example.com>
 pkgname=netpad-vnext-bin
-pkgver=0.10.0
+pkgver=0.11.0
 pkgrel=1
 pkgdesc="A cross-platform C# editor and playground (vNext - Rust-based shell)"
 arch=('x86_64')
